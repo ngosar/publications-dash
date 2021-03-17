@@ -1,2 +1,17 @@
 # pubmed-dash
-using EntrezPy, plotly, and dash to visualize publications, identifying overlap in topics with medical subject headings
+## Goal: 
+Produce content we can use to convey productivity and achievements for our progress report, our grant renewal application, and help us advocate for additional funding from the Department
+
+## Objective: 
+create a dashboard that answers “how is UCSF Pepper Center doing in terms of creating an impact in the career development of our scholars? How productive are scholars? How are we doing vs how are competing Pepper Centers doing?”
+
+## Dashboard Elements: 
+Comparison of UCSF Pepper Center with other Pepper Center Grants looking at
+
+How many publications are linked to Pepper? How many in compliance?
+Which journals do we publish and what is the impact factor? Highlight top 10%, bottom 10%
+What is the range of altmetric of our publications? Highlight top 10%, bottom 10%
+What topics do we publish on and how does it change through time
+What other grants the publications are linked to?
+How diverse are the publication teams, in terms of mix of specialties, backgrounds?
+
