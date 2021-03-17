@@ -1,11 +1,11 @@
 # pubmed-dash
-## Goal: 
+### Goal: 
 Produce content we can use to convey productivity and achievements for our progress report, our grant renewal application, and help us advocate for additional funding from the Department
 
-## Objective: 
+### Objective: 
 create a dashboard that answers “how is UCSF Pepper Center doing in terms of creating an impact in the career development of our scholars? How productive are scholars? How are we doing vs how are competing Pepper Centers doing?”
 
-## Dashboard Elements: 
+### Dashboard Elements: 
 Comparison of UCSF Pepper Center with other Pepper Center Grants looking at
 
 How many publications are linked to Pepper? How many in compliance?
@@ -15,3 +15,5 @@ What topics do we publish on and how does it change through time
 What other grants the publications are linked to?
 How diverse are the publication teams, in terms of mix of specialties, backgrounds?
 
+### Proposed Workflow:
+![Screen Shot 2021-03-16 at 6 29 25 PM](https://user-images.githubusercontent.com/77218715/111400974-a449bb80-8685-11eb-95ef-4ee754d7923f.png)
