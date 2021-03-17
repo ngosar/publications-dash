@@ -3,7 +3,7 @@
 convey productivity and achievements for center activities
 
 ### Objective: 
-create a dashboard that impact in the career development of scholars
+create a dashboard that impact of program
 
 ### Dashboard Elements: 
 How many publications are linked to center? How many in compliance?
